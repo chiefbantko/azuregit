@@ -6,7 +6,7 @@
 <body>
 
 <h1>Mon logo</h1>
-<img src="bantko.png" alt="Logo de mon site">
+<img src="test.jpg" alt="Logo de mon site">
 
 <?php
 // Paramètres de connexion
