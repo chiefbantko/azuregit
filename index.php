@@ -10,9 +10,9 @@
 
 <?php
 // Paramètres de connexion
-$host = '10.90.0.5';
-$username = 'vhugo';
-$password = 'P@ssw0rd77176';
+$host = 'mybantko.azurewebsites.net';
+$username = 'colette';
+$password = 'P@ssw0rd';
 $database = 'bantko';
 
 // Connecter à la base de données MariaDB
