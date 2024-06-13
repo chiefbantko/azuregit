@@ -45,7 +45,7 @@
 
 <?php
 // Paramètres de connexion à la base de données
-$servername = "bdd-ric.mysql.database.azure.com";
+$servername = "10.90.0.5";
 $username = "vhugo";
 $password = "P@ssw0rd77176";
 $dbname = "bantko";
